@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Historical Quiz</string>
+    <string name="task_historical_quiz">Ответьте на двадцать вопросов по истории России!</string>
+    <string name="restart_historical_quiz">Повторить</string>
+    <string name="exit_historical_quiz">Выйти</string>
+    <string name="start_historical_quiz">Начать</string>
+    <string name="score_historical_quiz">Верных ответов: %d</string>
+</resources>
